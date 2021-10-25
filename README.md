@@ -6,6 +6,8 @@
 
 ![Marcela's github stats](https://github-readme-stats.vercel.app/api?username=marcelammelo&show_icons=true&theme=material-palenight)
 
+![Marcela's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelammelo&layout=compact&langs_count=7&theme=material-palenight)
+
 [![GitHub Followers](https://img.shields.io/github/followers/marcelammelo?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/marcelammelo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/marcelammelo/)
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/marcelammelo)
